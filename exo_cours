@@ -1,0 +1,88 @@
+Phase 1 : Les Fondations
+Objectif : Comprendre les bases de JavaScript
+
+    Introduction à JavaScript
+        Qu'est-ce que JavaScript ? (Langage côté client/serveur, applications)
+        Comment inclure JavaScript dans une page HTML (<script> tag).
+        Variables et types de données (var, let, const, number, string, boolean).
+
+    Exercice :
+        Créer une page HTML avec un script JS qui affiche une alerte "Bienvenue, Laurine !".
+        Déclarer trois variables (nom, âge, estConnectée) et afficher leurs valeurs dans la console.
+
+    Les Opérations de Base
+        Opérateurs mathématiques : +, -, *, /, %.
+        Concatenation de chaînes.
+        Utilisation de la console (console.log).
+
+    Exercice :
+        Créer une calculatrice simple dans la console (addition, soustraction).
+        Afficher "Bonjour, [Nom]" en combinant une chaîne avec une variable.
+
+    Conditions et Boucles
+        Structures conditionnelles (if, else if, else).
+        Boucles (for, while, do...while).
+
+    Exercice :
+        Écrire un programme qui vérifie si un nombre est pair ou impair.
+        Créer une boucle qui affiche les nombres de 1 à 10 dans la console.
+
+Phase 2 : Les Concepts Fondamentaux
+Objectif : Maîtriser les bases de la programmation avec JavaScript
+
+    Fonctions
+        Qu'est-ce qu'une fonction ? Comment en créer (function nom() {}).
+        Les paramètres et valeurs de retour.
+
+    Exercice :
+        Écrire une fonction qui retourne la somme de deux nombres.
+        Écrire une fonction qui prend un prénom et dit "Bonjour [prénom]".
+
+    Tableaux et Objets
+        Définition et manipulation des tableaux (array.push, array.pop, array.length).
+        Introduction aux objets ({ clé: valeur }).
+
+    Exercice :
+        Créer un tableau des prénoms de 5 amis et afficher chaque prénom dans la console.
+        Créer un objet pour un étudiant avec son nom, âge et matières préférées, et afficher ses détails.
+
+    DOM (Document Object Model)
+        Sélection des éléments HTML avec JS (getElementById, querySelector).
+        Modifier le contenu ou le style d'un élément.
+
+    Exercice :
+        Créer un bouton HTML qui change la couleur du texte d'un paragraphe lorsqu'il est cliqué.
+        Créer une liste HTML dont le contenu est généré dynamiquement avec JavaScript.
+
+Phase 3 : Les Concepts Avancés
+Objectif : Travailler sur des projets simples pour comprendre les concepts avancés
+
+    Les Événements
+        Gestion d'événements avec addEventListener.
+        Les événements courants : click, keydown, submit.
+
+    Exercice :
+        Créer un formulaire HTML qui affiche les données saisies dans la console lorsque l'utilisateur clique sur "Envoyer".
+        Ajouter une fonction qui affiche un message d'erreur si un champ est vide.
+
+    ES6+ et Syntaxe Moderne
+        Les fonctions fléchées (()=>).
+        Destructuration.
+        Template literals (${}).
+
+    Exercice :
+        Convertir une fonction classique en fonction fléchée.
+        Utiliser la destructuration pour extraire des valeurs d'un tableau.
+
+Phase 4 : Projets
+Objectif : Appliquer les concepts appris dans des projets pratiques
+
+    Projets Simples
+        Projet 1 : Une To-Do List (Ajout, suppression, marquer comme terminé).
+        Projet 2 : Une mini-calculatrice (addition, soustraction, multiplication, division).
+        Projet 3 : Un jeu "Devine le nombre" (le programme choisit un nombre aléatoire entre 1 et 100, l'utilisateur essaie de le deviner).
+
+    Projets Intermédiaires
+        Créer une application météo simple avec une API.
+        Construire un chronomètre avec démarrage, pause et remise à zéro.
+
